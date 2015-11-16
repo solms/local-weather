@@ -1,5 +1,6 @@
 body {
   text-align:   center;
+  background-image: url('../resources/wind_direction.jpg');
 }
 
 #info-well {
